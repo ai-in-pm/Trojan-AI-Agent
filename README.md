@@ -25,6 +25,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+![image](https://github.com/user-attachments/assets/94f8839d-4b2d-440a-97c9-bc1bfbc3e0ac)
 
 The interface will open in your default web browser
 
